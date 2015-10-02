@@ -6,7 +6,7 @@
 	<groupId>org.weissetiger</groupId>
 	<artifactId>test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>weissetiger</name>
 	<description>Weisse Tiger test project</description>
